@@ -7,7 +7,7 @@
 * Using Rails 3
 
 <pre>
-rails plugin install git://github.com/norbauer/salty_slugs.git
+gem "galetahub-salty_slugs"
 </pre>
 
 
